@@ -1,5 +1,5 @@
 // class ManagePresents extends Component {
-const state = {
+let state = {
   numberOfPresents: 0,
 };
 
